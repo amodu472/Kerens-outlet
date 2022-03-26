@@ -1,0 +1,142 @@
+a {
+  margin: 0;
+}
+
+.about-the-artist {
+  margin-bottom: 0;
+  margin-top: 10px;
+  color: #E9DAC1;
+}
+
+.artshowcaserow {
+  width: 50%;
+  margin: 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.art {
+  text-decoration: underline;
+}
+
+.bio {
+  width: 50%;
+  margin: 25px auto;
+}
+
+.bottom-container {
+  background-color: #54BAB9;
+  margin: 0;
+}
+
+.bottomcloud {
+  position: absolute;
+}
+
+body {
+  background-color: #FBF8F1;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.btn {
+  background: #54BAB9;
+  background-image: -webkit-linear-gradient(top, #54BAB9, #54BAB9);
+  background-image: -moz-linear-gradient(top, #54BAB9, #54BAB9);
+  background-image: -ms-linear-gradient(top, #54BAB9, #54BAB9);
+  background-image: -o-linear-gradient(top, #54BAB9, #54BAB9);
+  background-image: linear-gradient(to bottom, #54BAB9, #54BAB9);
+  -webkit-border-radius: 32;
+  -moz-border-radius: 32;
+  border-radius: 32px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 25px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-me {
+  margin-bottom: 50px;
+}
+
+.copyright {
+  margin: 25px 0 0;
+}
+
+.footer-link {
+  color: #E9DAC1;
+  text-decoration: none;
+  margin: 25px 25px;
+}
+
+.foreign-word {
+  color: #54BAB9;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #E9DAC1;
+  margin: 35px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #54BAB9;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #54BAB9;
+  margin: 0 auto 50px;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  width: 5%;
+  margin: 50px auto;
+  border-style: dotted;
+  border-color: #E9DAC1;
+  border-width: 6px 0 0 0;
+}
+
+.hi {
+  color: #E9DAC1;
+}
+
+.img {
+  width: 15%;
+  height: 15%;
+}
+
+.the-artist {
+  font-size: 1.5rem;
+  color: #E9DAC1;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+  background-color: #54BAB9;
+}
+
+.topcloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+}
